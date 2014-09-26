@@ -4,8 +4,11 @@
   "description": "Learning javascripts bind functions",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "tape test.js"
   },
   "author": "Patrick O'Neill",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^3.0.0"
+  }
 }
