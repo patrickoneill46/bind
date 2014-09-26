@@ -1,0 +1,11 @@
+{
+  "name": "bindapplication",
+  "version": "0.1.0",
+  "description": "Learning javascripts bind functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Patrick O'Neill",
+  "license": "ISC"
+}
